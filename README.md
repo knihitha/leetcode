@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/knihitha/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/knihitha/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/knihitha/leetcode/tree/master/1068-product-sales-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/knihitha/leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/knihitha/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/knihitha/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
