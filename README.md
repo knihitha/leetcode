@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/knihitha/leetcode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/knihitha/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/knihitha/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0627-swap-sex-of-employees](https://github.com/knihitha/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
